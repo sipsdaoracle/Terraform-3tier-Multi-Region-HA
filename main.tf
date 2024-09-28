@@ -1,5 +1,6 @@
 provider "aws" {
   region = var.primary_region
+  profile = "tf-sips-3tier"
 }
 
 provider "aws" {

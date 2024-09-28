@@ -10,6 +10,6 @@ module "multi_region_ha" {
   asg_min_size          = 2
   asg_max_size          = 4
   asg_desired_capacity  = 2
-  db_name               = "myapp"
+  db_name               = "3tierapp"
   db_username           = "admin
 }
