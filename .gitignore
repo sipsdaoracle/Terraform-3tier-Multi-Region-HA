@@ -11,3 +11,4 @@ envs/dev/backend/terraform.tfstate
 bootstrap/.terraform.lock.hcl
 bootstrap/terraform.tfstate
 bootstrap/.terraform/
+bootstrap/.terraform/providers/
