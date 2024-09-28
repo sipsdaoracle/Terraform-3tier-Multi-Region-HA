@@ -12,3 +12,9 @@ bootstrap/.terraform.lock.hcl
 bootstrap/terraform.tfstate
 bootstrap/.terraform/
 bootstrap/.terraform/providers/
+# Ignore Terraform files
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.zip
+*.exe
